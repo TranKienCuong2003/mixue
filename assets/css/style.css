@@ -552,7 +552,7 @@ main .title-menu {
 .image-menu {
     width: 75%;
     height: 600px;
-    background-image: url(/assets/img/menu.jpg);
+    background-image: url(../img/menu.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -575,7 +575,7 @@ main .title-menu {
     width: 60%;
     height: 400px;
     margin: 3% auto;
-    background-image: url(/assets/img/lienhe.jpg);
+    background-image: url(../img/lienhe.jpg);
     background-position: center;
     background-size: cover;
 }
